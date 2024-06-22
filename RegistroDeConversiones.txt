@@ -1,0 +1,1 @@
+[{"monedaInicial":{"nombreDelaMonedaSingular":"Peso Argentino","nombreDelaMonedaPlural":"Pesos Argentinos","contraccion":"ARS"},"cantidadMonedaInicial":4456.0,"monedaAConvertir":{"nombreDelaMonedaSingular":"Dolar","nombreDelaMonedaPlural":"Dolares","contraccion":"USD"},"equivalencia":4.919423999999999,"tiempo":"2024-06-22T00:40:37.779458100"}]

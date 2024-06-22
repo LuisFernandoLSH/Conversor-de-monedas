@@ -1,0 +1,8 @@
+Dolar,Dolares,USD
+Euro,Euros,EUR
+Peso Mexicano,Pesos Mexicanos,MXN
+Peso Argentino,Pesos Argentinos,ARS
+Bolivian Boliviano,Bolivian Bolivianos,BOB
+Real Brasileño,Reales Brasileños,BRL
+Peso Chileno,Pesos Chilenos,CLP
+Peso Colombiano,Pesos Colombianos,COP
